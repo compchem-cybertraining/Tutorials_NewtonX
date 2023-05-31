@@ -1,0 +1,10 @@
+SLURM_JOBID=6630338
+SLURM_JOB_NODELIST=cpn-p27-15
+SLURM_NNODES=1
+SLURMTMPDIR=/scratch/6630338
+working directory=/projects/academic/cyberwksp21/Students/NX_DFTB/tddftb_dynamics/DYNAMICS/DYN_interactive
+NPROCS=8
+cp: cannot stat ‘/projects/academic/cyberwksp21/Students/NX_DFTB/tddftb_dynamics/DYNAMICS/DYN_interactive/veloc’: No such file or directory
+cp: cannot stat ‘/projects/academic/cyberwksp21/Students/NX_DFTB/tddftb_dynamics/DYNAMICS/DYN_interactive/veloc’: No such file or directory
+moldyn.pl: Cannot open veloc!
+systems answer was: No such file or directory at /projects/academic/cyberwksp21/Software/NX-2.2-B01/bin/moldyn.pl line 407.
