@@ -1,0 +1,6 @@
+SLURM_JOBID=6630310
+SLURM_JOB_NODELIST=cpn-f11-06
+SLURM_NNODES=1
+SLURMTMPDIR=/scratch/6630310
+working directory=/projects/academic/cyberwksp21/Students/NX_DFTB/tddftb_dynamics/SPECTRUM/IC_interactive
+NPROCS=8

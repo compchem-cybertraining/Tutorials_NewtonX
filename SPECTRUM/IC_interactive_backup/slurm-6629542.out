@@ -1,0 +1,6 @@
+SLURM_JOBID=6629542
+SLURM_JOB_NODELIST=cpn-p27-15
+SLURM_NNODES=1
+SLURMTMPDIR=/scratch/6629542
+working directory=/projects/academic/cyberwksp21/Software/inputs/tddftb_dynamics/SPECTRUM/IC_interactive_backup
+NPROCS=8
