@@ -1,0 +1,78 @@
+
+DIAGNOSTIC OF NEWTON-X TRAJECTORIES 
+
+Diagnostic of trajectories 1 to 12 
+
+Path to the trajectories:  /projects/academic/cyberwksp21/Software/inputs/tddftb_dynamics/DYNAMICS/pentacene 
+Initial time (fs):         0 
+Max. Energy deviation(eV): 0.5
+Max. population deviation: 0.1
+Number of states:          6 
+Normal termination:        0
+Error termination:         6 
+
+
+TRAJECTORY 1:
+Suggestion: make analysis until time (fs): 59.50 
+Surface: 3
+
+TRAJECTORY 2:
+Suggestion: make analysis until time (fs): 66.50 
+Surface: 4
+
+TRAJECTORY 3:
+Suggestion: make analysis until time (fs): 70.50 
+Surface: 3
+
+TRAJECTORY 4:
+Suggestion: make analysis until time (fs): 69.00 
+Surface: 4
+
+TRAJECTORY 5:
+Energy conservation failed at 14.00 fs
+Suggestion: make analysis until time (fs): 14.00 
+Surface: 3
+
+TRAJECTORY 6:
+moldyn.pl:   ::ERROR::   step = 76 time = 51.5 fs  
+Suggestion: make analysis until time (fs): 51.00 
+Surface: 4
+
+TRAJECTORY 7:
+moldyn.pl:   ::ERROR::   step = 77 time = 51.5 fs  
+Suggestion: make analysis until time (fs): 51.00 
+Surface: 3
+
+TRAJECTORY 8:
+moldyn.pl:   ::ERROR::   step = 83 time = 55.5 fs  
+Suggestion: make analysis until time (fs): 55.00 
+Surface: 3
+
+TRAJECTORY 9:
+moldyn.pl:   ::ERROR::   step = 79 time = 53.5 fs  
+Suggestion: make analysis until time (fs): 53.00 
+Surface: 4
+
+TRAJECTORY 10:
+moldyn.pl:   ::ERROR::   step = 80 time = 54 fs  
+Suggestion: make analysis until time (fs): 53.50 
+Surface: 5
+
+TRAJECTORY 11:
+moldyn.pl:   ::ERROR::   step = 80 time = 54 fs  
+Suggestion: make analysis until time (fs): 53.50 
+Surface: 4
+
+TRAJECTORY 12:
+Suggestion: make analysis until time (fs): 202.50 
+Surface: 5
+
+Maximum time reached (fs): 202.50 
+
+Distribution of trajectories: 
+Number of trajs finished between 0 and 50.625 fs: 1 
+Number of trajs finished between 50.625 and 101.25 fs: 10 
+Number of trajs finished between 101.25 and 151.875 fs: 0 
+Number of trajs finished between 151.875 and 202.5 fs: 1 
+
+End of diagnostic

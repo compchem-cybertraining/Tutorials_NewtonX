@@ -1,0 +1,4 @@
+%comm-and[1] %= open(IN,"epot");$e0=<IN>;$e1=<IN>;$de=abs($e1-$e0)*27.21138386;open(OUT,">ss-and-1");print OUT $de;close(OUT);close(IN);
+  %text-and[1] %= E1-E0 (eV)
+  %oprt-and[1] %= <=
+  %thrs-and[1] %= 0.10
